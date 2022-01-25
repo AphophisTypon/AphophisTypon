@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AphophisTypon, I am 18 years old, just finished high school and I am trying to do something with my time
+- 👋 Hi, I’m @AphophisTypon, I am 19 years old, just finished high school and I am trying to do something with my time
 - 👀 I’m interested in dart and code...
 - 🌱 I’m currently learning dart
 - 💞️ Currently, I am surviving Covid-19
